@@ -20,3 +20,11 @@ This project is a simple Twitter UI clone created using Tailwind CSS. It aims to
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/twitter-ui-clone.git
+2. Use the following command to start a project on localhost
+   ```bash
+   npm run dev
+  Your app will be available at http://localhost:5173/
+
+4. Use the below command for executing the script of tailwind css
+   ```bash
+   num run build
